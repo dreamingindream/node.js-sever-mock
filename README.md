@@ -2,7 +2,7 @@
 use Node.js to start a web-sever and mock data. ^_^
 
 1. 用 `node.js` 启动 `sever.js` 
-2. 首页地址为 `http://localhost:8080/index.html`
+2. 首页地址为 `http://localhost:8080/index`
 
 **如需添加 `API`**
 
